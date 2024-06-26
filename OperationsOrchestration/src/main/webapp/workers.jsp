@@ -1,0 +1,39 @@
+<%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Workers</title>
+</head>
+<body>
+    <table>
+        <thead>
+            <tr>
+                <th>Property</th>
+                <th>Value</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>upgradeStatus</td>
+                <td>READY_FOR_UPGRADE</td>
+            </tr>
+            <tr>
+                <td>upgradeVersion</td>
+                <td>null</td>
+            </tr>
+            <tr>
+                <td>uuid</td>
+                <td>1fc88b1f-33f3-4178-a3ee-996f90f36feb</td>
+            </tr>
+            <tr>
+                <td>description</td>
+                <td>1fc88b1f-33f3-4178-a3ee-996f90f36feb</td>
+            </tr>
+            <tr>
+                <td>hostName</td>
+                <td>somehost</td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>
