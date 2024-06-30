@@ -1,0 +1,5 @@
+{
+    "name": "ADMINISTRATOR",
+    "description": "Administration Role",
+    "permissions": "flowPermissionManage, cpManage, dashboardRead, configurationItemRead"
+}
