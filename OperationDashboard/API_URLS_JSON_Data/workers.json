@@ -1,0 +1,19 @@
+[
+    {
+    "uuid":"a97e30da-179e-4f19-af93-453c33338f53", "installPath":"c:/jenkins/workspace/demo-deployment/oo/central", "os":"Windows Server 2008",
+    "jvm":"1.7.0_13",
+    "description":"a97e30da-179e-4f19-af93-453c33338f53", "dotNetVersion":"4.x", "hostName":"dummy.devlab.ad",
+    "groups": "worker_Operator_Path", 
+    "active":true,
+    "status":"RUNNING"
+    },
+    {
+    "uuid":"4440c50e-79d1-45d2-a8dc-94bc42eb9b1f", "installPath":"c:\\jenkins\\workspace\\demo-deployment\\oo\\worker", "os":"Windows Server 2008",
+    "jvm":"1.7.0_13",
+    "description":"4440c50e-79d1-45d2-a8dc-94bc42eb9b1f", "dotNetVersion":"4.x", "hostName":"dummy.devlab.ad",
+    "groups":
+    "Worker_Operator_Path" , "workerBusynessValue":"Medium",
+     "active":false,
+    "status":"RUNNING"
+    }
+    ]

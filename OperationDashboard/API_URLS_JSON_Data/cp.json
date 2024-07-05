@@ -1,0 +1,35 @@
+[{
+    "name": "cp-with-only-success-flow",
+    "version": "10.30.2",
+    "id": "a4deec31-f10e-4249-9a71-7309fe0dbc5a",
+    "publisher": "OO Tests",
+    "description": "OO cp-with-only-success-flow Test Content Pack",
+    "deploymentDate": 1418208680626,
+    "deployedBy": "anonymousUser",
+    "signDetails": {
+    "signStatus": "signed",
+    "signedBy": "CN=qa-MAINDC-CA, DC=qa, DC=ad, DC=com",
+    "warnings": [],
+    "certs": [{
+    "certType": "X.509",
+    "certDn": "CN=Administrator, CN=Users, DC=qa, DC=ad, DC=com",
+    "certKeystoreEntryAlias": null,
+    "validityTimeFrom": 1417599979000,
+    "validityTimeNotAfter": 1480758979000,
+    "validityTimeNotBefore": 0,
+    "supportCodeSign": false
+    },
+    {
+    "certType": "X.509",
+    "certDn": "CN=qa-MAINDC-CA, DC=qa, DC=ad, DC=com",
+    "certKeystoreEntryAlias": null,
+    "validityTimeFrom": 1390826569000,
+    "validityTimeNotAfter": 1706359968000,
+    "validityTimeNotBefore": 0,
+    "supportCodeSign": false
+    }
+    ],
+    "trusted": false,
+    "exportable": true
+    }
+    }]

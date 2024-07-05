@@ -1,0 +1,25 @@
+[{
+    "id": "123",
+    "enabled": true,
+    "flowUuid": "78bec456-db6a-4c05-99ad-0675b230bfeb",
+    "nextFireTime": -1,
+    "prevFireTime": -1,
+    "flowScheduleName": "schedule 1",
+    "flowName": "flow1",
+    "flowPath": "path0",
+    "username": "admin",
+    "triggerExpression": "0 10 10 ? * 6"
+    },
+    {
+    "id": "567",
+    "enabled": true,
+    "flowUuid": "3d32e475g-ab54-fe21-df32-4743346ebebd",
+    "nextFireTime": -1,
+    "prevFireTime": -1,
+    "flowScheduleName": "schedule n",
+    "flowName": "flow3",
+    "flowPath": "path2",
+    "username": "admin",
+    "triggerExpression": null
+    }
+    ]

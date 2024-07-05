@@ -1,0 +1,28 @@
+[{
+    "displayName": "admin",
+    "userId": "admin",
+    "emails": null,
+    "role": 
+    "ADMIN"
+    ,
+    "permissions": null
+    },
+    {
+    "displayName": "mranderson",
+    "userId": "mranderson",
+    "emails": null,
+    "role": 
+    "END_USER"
+    ,
+    "permissions": null
+    },
+    {
+    "displayName": "rothjohn",
+    "userId": "rothjohn",
+    "emails": null,
+    "roles": 
+    "EVERYONE"
+    ,
+    "permissions": null
+    }
+    ]

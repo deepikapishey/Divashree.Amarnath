@@ -1,0 +1,73 @@
+[
+    {
+        "name": "ADMINISTRATOR",
+        "description": "Administration Role",
+        "defaultRole": false,
+        "permissions": [
+            "cpManage",
+            "flowDebug",
+            "othersRunsManage",
+            "auditRead",
+            "categoryManage",
+            "dashboardRead",
+            "dataCleanupManage",
+            "topologyManage",
+            "scheduleRead",
+            "configurationItemRead",
+            "systemSettingsRead",
+            "flowPermissionManage",
+            "topologyRead",
+            "scenarioManage",
+            "systemSettingsManage",
+            "configurationItemManage",
+            "cpRead",
+            "scheduleManage",
+            "securityConfigManage",
+            "securityConfigRead"
+        ],
+        "groupsNames": []
+    },
+    {
+        "name": "END_USER",
+        "description": "End User Role",
+        "defaultRole": false,
+        "permissions": [],
+        "groupsNames": []
+    },
+    {
+        "name": "EVERYBODY",
+        "description": "Everybody Role",
+        "defaultRole": false,
+        "permissions": [],
+        "groupsNames": []
+    },
+    {
+        "name": "PROMOTER",
+        "description": "Promoter Role",
+        "defaultRole": false,
+        "permissions": [
+            "cpManage",
+            "flowPermissionManage",
+            "configurationItemManage",
+            "cpRead",
+            "configurationItemRead"
+        ],
+        "groupsNames": []
+    },
+    {
+        "name": "SYSTEM_ADMIN",
+        "description": "System Administrator Role",
+        "defaultRole": false,
+        "permissions": [
+            "systemSettingsRead",
+            "topologyRead",
+            "systemSettingsManage",
+            "auditRead",
+            "dataCleanupManage",
+            "securityConfigManage",
+            "topologyManage",
+            "securityConfigRead"
+        ],
+        "groupsNames": []
+    }
+]
